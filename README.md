@@ -18,6 +18,7 @@ TASKS:
 DATA STRUCTURE USED : Graph is used for the data creation because it will be efficient in terms of space and complexity as compared to trees. Searching, blocking and unblocking can be done in linear or constant time using adjacency list of graph. It takes constant time to insert edge in graph. Along with this, accessing an element can also be done in constant time using graphs. 
 
 Data Structure Briefing:
+
 	NODE : This data structure is for representing a node in contact list.
 
 	HIST : This data structure is for storing the operations history of a person.
