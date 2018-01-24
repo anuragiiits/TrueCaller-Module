@@ -28,7 +28,8 @@ Data Structure Briefing:
 	GRAPH : This is for creating a Graph of the Persons for the truecaller app. 
 
 
-                                 -------------------->Functions Created<---------------------
+
+------------------------------------------>Functions Created<------------------------------------------
 
 
 * NODE *newnode(int dest) :	Creates and returns a new node. It allocates the memory and stores the data "dest" in the data and "next" address as null.
